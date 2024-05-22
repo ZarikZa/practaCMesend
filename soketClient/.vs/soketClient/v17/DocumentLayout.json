@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI-MODERN-14\\source\\repos\\soketClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FC5DA-9EF0-4DE4-AEA6-A300F0B81DC8}|soketClient\\soketClient.vcxproj|C:\\Users\\MSI-MODERN-14\\source\\repos\\soketClient\\soketClient\\soketClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F9FC5DA-9EF0-4DE4-AEA6-A300F0B81DC8}|soketClient\\soketClient.vcxproj|solutionrelative:soketClient\\soketClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 359,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "soketClient.cpp",
+              "DocumentMoniker": "C:\\Users\\MSI-MODERN-14\\source\\repos\\soketClient\\soketClient\\soketClient.cpp",
+              "RelativeDocumentMoniker": "soketClient\\soketClient.cpp",
+              "ToolTip": "C:\\Users\\MSI-MODERN-14\\source\\repos\\soketClient\\soketClient\\soketClient.cpp",
+              "RelativeToolTip": "soketClient\\soketClient.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-10T07:14:42.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
